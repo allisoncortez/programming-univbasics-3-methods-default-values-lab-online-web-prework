@@ -1,6 +1,4 @@
-veg1 = element
-veg2 = element
-protein = element
+
 
 def meal_choice(veg1,veg2,protein="meat")
   puts "What a nutritious meal!"
