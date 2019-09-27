@@ -1,4 +1,4 @@
-veg1 = elemeny
+veg1 = element
 veg2 = element
 protein = element
 
